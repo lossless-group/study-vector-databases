@@ -1,0 +1,18 @@
+[submodule "chroma"]
+	path = chroma
+	url = https://github.com/chroma-core/chroma.git
+[submodule "qdrant"]
+	path = qdrant
+	url = https://github.com/qdrant/qdrant.git
+[submodule "weaviate"]
+	path = weaviate
+	url = https://github.com/weaviate/weaviate.git
+[submodule "milvus"]
+	path = milvus
+	url = https://github.com/milvus-io/milvus.git
+[submodule "lancedb"]
+	path = lancedb
+	url = https://github.com/lancedb/lancedb.git
+[submodule "pgvector"]
+	path = pgvector
+	url = https://github.com/pgvector/pgvector.git
