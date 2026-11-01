@@ -31,6 +31,11 @@ summary: >-
   keeps recurring.
 publish: true
 type: Profiles
+title: "pgvector — Profile"
+date_modified: 2026-08-18
+authors:
+  - Michael Staton
+status: Reference
 ---
 
 # pgvector — Profile

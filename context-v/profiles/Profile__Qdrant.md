@@ -31,6 +31,11 @@ summary: >-
   application driving Qdrant.
 publish: true
 type: Profiles
+title: "Qdrant — Profile"
+date_modified: 2026-08-18
+authors:
+  - Michael Staton
+status: Reference
 ---
 
 # Qdrant — Profile

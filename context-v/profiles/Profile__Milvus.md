@@ -32,6 +32,11 @@ summary: >-
   which the complexity starts to pay.
 publish: true
 type: Profiles
+title: "Milvus — Profile"
+date_modified: 2026-08-18
+authors:
+  - Michael Staton
+status: Reference
 ---
 
 # Milvus — Profile

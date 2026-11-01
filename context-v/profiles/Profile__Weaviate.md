@@ -33,6 +33,11 @@ summary: >-
   the study's most expensive — paged REST/gRPC reads, no bulk export.
 publish: true
 type: Profiles
+title: "Weaviate — Profile"
+date_modified: 2026-08-18
+authors:
+  - Michael Staton
+status: Reference
 ---
 
 # Weaviate — Profile

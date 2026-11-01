@@ -30,6 +30,11 @@ summary: >-
   `.lance` tables, and an honest note that today's workload does not justify it.
 publish: true
 type: Profiles
+title: "LanceDB — Profile"
+date_modified: 2026-08-18
+authors:
+  - Michael Staton
+status: Reference
 ---
 
 # LanceDB — Profile

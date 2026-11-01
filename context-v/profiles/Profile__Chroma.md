@@ -32,6 +32,11 @@ summary: >-
   over paraphrase.
 publish: true
 type: Profiles
+title: "Chroma — Profile"
+date_modified: 2026-08-18
+authors:
+  - Michael Staton
+status: Reference
 ---
 
 # Chroma — Profile
