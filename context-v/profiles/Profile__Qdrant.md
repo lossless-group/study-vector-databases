@@ -30,6 +30,7 @@ summary: >-
   differences to expect), or when studying Mem0's adapter as the reference
   application driving Qdrant.
 publish: true
+type: Profiles
 ---
 
 # Qdrant — Profile

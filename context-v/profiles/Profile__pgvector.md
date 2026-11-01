@@ -30,6 +30,7 @@ summary: >-
   substrate profile for most of those systems, and explains why that pattern
   keeps recurring.
 publish: true
+type: Profiles
 ---
 
 # pgvector — Profile

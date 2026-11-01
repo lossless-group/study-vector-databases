@@ -31,6 +31,7 @@ summary: >-
   already running, DiskANN or GPU indexes needed, very high tenant count) under
   which the complexity starts to pay.
 publish: true
+type: Profiles
 ---
 
 # Milvus — Profile

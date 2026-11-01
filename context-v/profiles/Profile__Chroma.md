@@ -31,6 +31,7 @@ summary: >-
   profiles. Every claim carries an upstream `file:line` citation; trust those
   over paraphrase.
 publish: true
+type: Profiles
 ---
 
 # Chroma — Profile
